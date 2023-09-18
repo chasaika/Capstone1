@@ -1,8 +1,7 @@
 ## **Capstone Project Modul 1**
 Study case : Main Function of Hospital Management System
 
-This project contains a simple main menu function for Hospital Management System using the Python programming language.
-The main menu consists of 6 functions:
+This project contains a simple main menu function for Hospital Management System using the Python programming language. The main menu application aims to manage hospital patient data. The main menu consists of 6 functions:
 1. Add Patient (Create Data)
 2. Search Patient (Read Data)
 3. Delete Patient (Delete Data)
